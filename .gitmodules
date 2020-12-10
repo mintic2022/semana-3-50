@@ -1,0 +1,6 @@
+[submodule "semana-3-50-backend"]
+	path = semana-3-50-backend
+	url = https://github.com/mintic2022/semana-3-50-backend.git
+[submodule "semana-3-50-frontend"]
+	path = semana-3-50-frontend
+	url = https://github.com/mintic2022/semana-3-50-frontend.git
